@@ -1,0 +1,82 @@
+{
+    "policy_pages": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Policy Pages",
+        "element": {
+            "title": "text",
+            "details": "textarea-nic",
+            "modal": false
+        }
+    },
+    "login": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Login Section",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "600x600"
+                }
+            },
+            "heading_one": "text",
+            "subheading_one": "text",
+            "heading_two": "text",
+            "subheading_two": "text"
+        }
+    },
+    "register": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Register Section",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "600x600"
+                }
+            },
+            "title": "text",
+            "heading_one": "text",
+            "subheading_one": "text",
+            "heading_two": "text",
+            "subheading_two": "text"
+        }
+    },
+    "kyc_content": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Kyc Content Section",
+        "content": {
+            "unverified_content": "textarea",
+            "pending_content": "textarea"
+        }
+    },
+    "account_recovery": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Account Recovery",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "600x600"
+                }
+            },
+            "title": "text",
+            "heading": "text"
+        }
+    },
+    "account_verification": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Account Verification",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "600x600"
+                }
+            },
+            "title": "text",
+            "heading": "text"
+        }
+    }
+}
